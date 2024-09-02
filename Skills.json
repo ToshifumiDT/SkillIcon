@@ -1,22 +1,22 @@
 [
     {
         "name": "JavaScript",
-        "icon": "/public/images/icons8-javascript-96.png",
+        "icon": "/images/icons8-javascript-96.png",
         "tooltip": "JavaScript programming language"
     },
     {
         "name": "React",
-        "icon": "/public/images/icons8-react-a-javascript-library-for-building-user-interfaces-96.png",
+        "icon": "/images/icons8-react-a-javascript-library-for-building-user-interfaces-96.png",
         "tooltip": "React JavaScript library"
     },
     {
         "name": "HTML",
-        "icon": "/public/images/icons8-html-100.png",
+        "icon": "/images/icons8-html-100.png",
         "tooltip": "HTML markup language"
     },
     {
         "name": "CSS",
-        "icon": "/public/images/icons8-css-100.png",
+        "icon": "/images/icons8-css-100.png",
         "tooltip": "Cascading Style Sheets"
     }
 ]
